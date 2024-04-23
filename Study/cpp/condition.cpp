@@ -34,6 +34,9 @@ int solution(int month)
         case 11:
             answer = 30;
             break;
+        default:
+            answer = -1;
+            break;
     }
 
     return answer;
