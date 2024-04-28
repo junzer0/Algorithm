@@ -6,7 +6,7 @@
 - [x] Function
 - [x] Condition
 - [x] Loop(iteration)
-- [ ] Pointer
+- [x] Pointer
 - [ ] Reference
 - [ ] Class
 - [ ] Object
